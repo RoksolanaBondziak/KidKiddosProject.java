@@ -1,0 +1,10 @@
+2022-06-16 16:58:33.254 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome=102 (valid until 2022-06-17 15:49:20)
+2022-06-16 16:58:33.257 [main] DEBUG io.github.bonigarcia.wdm.Preferences - Preference chrome102=102.0.5005.61 (valid until 2022-06-17 15:49:20)
+2022-06-16 16:58:33.257 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-16 16:58:33.266 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 102.0.5005.61 found in cache
+2022-06-16 16:58:33.267 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as /Users/roksolanabondziak/.m2/repository/webdriver/chromedriver/mac64/102.0.5005.61/chromedriver
+2022-06-16 16:58:36.823 [main] INFO  MainPageTest - Login page test with invalid credentials
+2022-06-16 16:58:36.824 [main] INFO  Pages.BasePage - Clicking element with xpath: //a[@class = 'site-header__account']
+2022-06-16 16:58:37.307 [main] INFO  Pages.BasePage - Check element with xpath exists: //h1[text() = 'Login']
+2022-06-16 16:58:37.523 [main] INFO  Pages.BasePage - Clicking element with xpath: //input[@value = 'Sign In']
+2022-06-16 16:58:38.599 [main] INFO  Pages.BasePage - Clicking element with xpath: //input[@value = 'Sign In']
